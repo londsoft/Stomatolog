@@ -12,7 +12,7 @@ namespace Stomatolog.Domain
     public class DentistContext : DbContext
     {
         public DentistContext()
-            : base("name=StomatologDBTrusted")
+            : base("name=StomatologDBSQLite")
         {
             //Database.SetInitializer<DentistContext>(new CreateDatabaseIfNotExists<DentistContext>());
             //Database.SetInitializer<DentistContext>(new DropCreateDatabaseIfModelChanges<DentistContext>());

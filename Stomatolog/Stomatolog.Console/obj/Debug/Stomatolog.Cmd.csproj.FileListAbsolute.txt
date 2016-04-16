@@ -34,3 +34,19 @@ C:\Users\twala\Documents\Visual Studio 2015\Projects\Stomatolog\Stomatolog.Conso
 C:\Users\twala\Documents\Visual Studio 2015\Projects\Stomatolog\Stomatolog.Console\bin\Debug\EntityFramework.xml
 C:\Users\twala\Documents\Visual Studio 2015\Projects\Stomatolog\Stomatolog.Console\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\twala\Documents\Visual Studio 2015\Projects\Stomatolog\Stomatolog.Console\obj\Debug\Stomatolog.Cmd.csprojResolveAssemblyReference.cache
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Console\bin\Debug\Stomatolog.Console.exe.config
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Console\obj\Debug\Stomatolog.Console.exe
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Console\obj\Debug\Stomatolog.Console.pdb
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Console\bin\Debug\Stomatolog.Console.exe
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Console\bin\Debug\Stomatolog.Console.pdb
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Console\bin\Debug\EntityFramework.dll
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Console\bin\Debug\Stomatolog.Domain.dll
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Console\bin\Debug\System.Data.SQLite.dll
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Console\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Console\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Console\bin\Debug\Stomatolog.Domain.pdb
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Console\bin\Debug\EntityFramework.xml
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Console\bin\Debug\System.Data.SQLite.xml
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Console\obj\Debug\Stomatolog.Cmd.csprojResolveAssemblyReference.cache
