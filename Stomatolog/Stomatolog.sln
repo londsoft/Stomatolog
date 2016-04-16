@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stomatolog", "Stomatolog\Stomatolog.csproj", "{91A82CD4-D0DD-4C50-8427-AB93C69FF663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stomatolog.Domain", "Stomatolog.Domain\Stomatolog.Domain.csproj", "{C1D73DAC-953A-406C-BBC5-A52D87999300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stomatolog.Cmd", "Stomatolog.Console\Stomatolog.Cmd.csproj", "{5FFB2A2E-7696-4769-926B-9B59DE186EF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A82CD4-D0DD-4C50-8427-AB93C69FF663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A82CD4-D0DD-4C50-8427-AB93C69FF663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A82CD4-D0DD-4C50-8427-AB93C69FF663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A82CD4-D0DD-4C50-8427-AB93C69FF663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1D73DAC-953A-406C-BBC5-A52D87999300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D73DAC-953A-406C-BBC5-A52D87999300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D73DAC-953A-406C-BBC5-A52D87999300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D73DAC-953A-406C-BBC5-A52D87999300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FFB2A2E-7696-4769-926B-9B59DE186EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFB2A2E-7696-4769-926B-9B59DE186EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFB2A2E-7696-4769-926B-9B59DE186EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFB2A2E-7696-4769-926B-9B59DE186EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
