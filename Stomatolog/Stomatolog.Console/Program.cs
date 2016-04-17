@@ -26,7 +26,13 @@ namespace Stomatolog.Cmd
                         {
                             new Visit { DateOfVisit = DateTime.Now, Description = "asfasf"},
                             new Visit { DateOfVisit = DateTime.Now.AddDays(1), Description = "asdasdas"}
+                        },
+                        Pictures = new List<Picture>
+                        {
+                            new Picture { PictureName = "Re3ndgen1.png" },
+                            new Picture { PictureName = "Re3ndgen2.jpg" }
                         }
+                        
                     };
 
                     db.Patients.Add(patient);

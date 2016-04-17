@@ -13,6 +13,7 @@ namespace Stomatolog.Domain.Models
         public Patient()
         {
             Visits = new List<Visit>();
+            Pictures = new List<Picture>();
         }
 
         [Key]
@@ -32,5 +33,6 @@ namespace Stomatolog.Domain.Models
         public virtual Diagram Diagram { get; set; }
         
         public virtual ICollection<Visit> Visits { get; set; }
+        public virtual ICollection<Picture> Pictures { get; set; }
     }
 }

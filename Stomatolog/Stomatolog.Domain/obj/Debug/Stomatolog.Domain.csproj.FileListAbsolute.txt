@@ -33,12 +33,8 @@ C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Domain\bin\Debu
 C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Domain\bin\Debug\Stomatolog.Domain.pdb
 C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Domain\bin\Debug\EntityFramework.dll
 C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Domain\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Domain\bin\Debug\System.Data.SQLite.dll
-C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Domain\bin\Debug\System.Data.SQLite.EF6.dll
-C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Domain\bin\Debug\System.Data.SQLite.Linq.dll
 C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Domain\bin\Debug\EntityFramework.xml
 C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Domain\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Domain\bin\Debug\System.Data.SQLite.xml
 C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Domain\obj\Debug\Stomatolog.Domain.csprojResolveAssemblyReference.cache
 C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Domain\obj\Debug\Stomatolog.Domain.dll
 C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog.Domain\obj\Debug\Stomatolog.Domain.pdb

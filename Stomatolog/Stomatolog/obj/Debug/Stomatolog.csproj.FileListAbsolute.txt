@@ -49,3 +49,20 @@ C:\Users\twala\Documents\Visual Studio 2015\Projects\Stomatolog\Stomatolog\obj\D
 C:\Users\twala\Documents\Visual Studio 2015\Projects\Stomatolog\Stomatolog\obj\Debug\Stomatolog.csproj.GenerateResource.Cache
 C:\Users\twala\Documents\Visual Studio 2015\Projects\Stomatolog\Stomatolog\obj\Debug\Stomatolog.exe
 C:\Users\twala\Documents\Visual Studio 2015\Projects\Stomatolog\Stomatolog\obj\Debug\Stomatolog.pdb
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog\bin\Debug\Stomatolog.exe.config
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog\bin\Debug\Stomatolog.exe
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog\bin\Debug\Stomatolog.pdb
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog\bin\Debug\Stomatolog.Domain.dll
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog\bin\Debug\EntityFramework.dll
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog\bin\Debug\Stomatolog.Domain.pdb
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog\bin\Debug\EntityFramework.xml
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog\obj\Debug\Stomatolog.csprojResolveAssemblyReference.cache
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog\obj\Debug\MainWindow.baml
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog\obj\Debug\MainWindow.g.cs
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog\obj\Debug\App.g.cs
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog\obj\Debug\Stomatolog_MarkupCompile.cache
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog\obj\Debug\Stomatolog.g.resources
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog\obj\Debug\Stomatolog.Properties.Resources.resources
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog\obj\Debug\Stomatolog.csproj.GenerateResource.Cache
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog\obj\Debug\Stomatolog.exe
+C:\Users\twala\Documents\GitHub\Stomatolog\Stomatolog\Stomatolog\obj\Debug\Stomatolog.pdb

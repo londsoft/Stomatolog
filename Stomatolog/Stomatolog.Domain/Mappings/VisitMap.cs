@@ -13,7 +13,7 @@ namespace Stomatolog.Domain.Mappings
     {
         public VisitMap()
         {
-            this.ToTable("Wizyty");
+            //this.ToTable("Wizyty");
         }
     }
 }

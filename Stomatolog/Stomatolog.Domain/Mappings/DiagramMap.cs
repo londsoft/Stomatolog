@@ -13,7 +13,7 @@ namespace Stomatolog.Domain.Mappings
     {
         public DiagramMap()
         {
-            this.ToTable("Diagramy");
+            //this.ToTable("Diagramy");
         }
     }
 }
